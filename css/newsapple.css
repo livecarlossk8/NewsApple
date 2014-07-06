@@ -1,0 +1,29 @@
+body {
+  background: #d7d1d1;
+  color: #444;
+  font-family: helvetica;
+  font-size: 16px;
+}
+header {
+  background: #444;
+  color: #fff;
+  padding: 1em;
+}
+header h1 {
+  text-align: left;
+}
+img {
+  width: 80px;
+}
+nav {
+  background: #f1f1f1;
+}
+nav ul {
+  top: 20%;
+  left: 25%;
+  nav-index: 1;
+  nav-right: #b2b2b2;
+  nav-left: #b4b4b4;
+  nav-down: #b2b2b2;
+  nav-up: #b4b4b4;
+}
